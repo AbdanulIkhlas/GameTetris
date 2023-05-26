@@ -1,3 +1,9 @@
+/*
+Dev :
+Muhammad Abdanul Ikhlas
+Anindia Azzahra
+
+*/
 package tetris;
 
 import view.SplashScreenView;
